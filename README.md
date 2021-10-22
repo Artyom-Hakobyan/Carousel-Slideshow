@@ -1,3 +1,3 @@
 Go ahead and try on
 
-https://artyomhakobyan22.github.io/Carousel-Slideshow/
+https://artyom-hakobyan.github.io/Carousel-Slideshow/
